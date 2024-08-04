@@ -2,4 +2,4 @@
 title: Welcome to your mama
 ---
 
-can i [[A note|link]] a thing?
+can i [[A note|linkll]] a thing?

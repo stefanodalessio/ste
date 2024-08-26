@@ -1,3 +1,3 @@
 
 # this is a read me
-this are written in here
+things are written in here

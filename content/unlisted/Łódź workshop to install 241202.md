@@ -1,16 +1,14 @@
 ---
-title: FH24WS stuff to install
+title: Łódź workshop to install
 draft: false
 tags:
 ---
-#### Unreal
-- update Unreal to latest version
 ### MAX
 - download and install MAX
 - https://cycling74.com/downloads
 ### MAX packages
 - open max
-- on the top menu: file/show package manager
+- on the top menu: file / show package manager
 - on the top right of the "package" window there is a search field, on the left of that there is a little menu that either says "installed packages" or "remote packages". Make sure it is set to "remote packages"
 - in the search filed type: Petra
 - click on the blue "Petra" icon, then click on install, go back to the the search field 
@@ -25,4 +23,6 @@ tags:
 - Download the 2 folders, they will download as .zip. Unzip them so you get 2 folders
 - Put the CONTENT of “put these in to Library” in: documents / max9 / library
 - Put the CONTENT of “put this in Snippets” in: documents / max9 / snippets
+### After the workshop
+- you can find the exercises we did together here: https://base.uni-ak.ac.at/cloud/index.php/s/xb3DRn3X8qtZqAm
 

@@ -21,8 +21,9 @@ tags:
 ### Workshop materials
 - go to https://base.uni-ak.ac.at/cloud/index.php/s/DQ2StGL6syzN3an
 - Download the 2 folders, they will download as .zip. Unzip them so you get 2 folders
-- Put the CONTENT of “put these in to Library” in: documents / max9 / library
-- Put the CONTENT of “put this in Snippets” in: documents / max9 / snippets
+- Put the CONTENT of “put these in to Library” in: documents / max 9 / library
+- Put the CONTENT of “put this in Snippets” in: documents / max 9 / snippets
+- Put the CONTENT of “put this in Templates” in: documents / max 9 / Templates
 
 ### Resources
 - A list of resources to learn Max: https://stefanodalessio.github.io/unlisted/Max-Resources

@@ -1,5 +1,5 @@
 ---
-title: Kinects on mac
+title: Max Resources
 draft: false
 tags:
 ---

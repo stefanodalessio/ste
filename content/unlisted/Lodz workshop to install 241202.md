@@ -23,6 +23,9 @@ tags:
 - Download the 2 folders, they will download as .zip. Unzip them so you get 2 folders
 - Put the CONTENT of “put these in to Library” in: documents / max9 / library
 - Put the CONTENT of “put this in Snippets” in: documents / max9 / snippets
+
+### Resources
+- A list of resources to learn Max: https://stefanodalessio.github.io/unlisted/Max-Resources
 ### After the workshop
 - you can find the exercises we did together here: https://base.uni-ak.ac.at/cloud/index.php/s/xb3DRn3X8qtZqAm
 

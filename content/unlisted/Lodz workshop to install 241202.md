@@ -20,7 +20,7 @@ tags:
 - then click on the black mubu for Max icon, then click on install, wait for it to install, when its done close the package manager window and quit / close Max
 ### Workshop materials
 - go to https://base.uni-ak.ac.at/cloud/index.php/s/DQ2StGL6syzN3an
-- Download the 2 folders, they will download as .zip. Unzip them so you get 2 folders
+- Download the folders, they will download as .zip. Unzip them so you get folders.
 - Put the CONTENT of “put these in to Library” in: documents / max 9 / library
 - Put the CONTENT of “put this in Snippets” in: documents / max 9 / snippets
 - Put the CONTENT of “put this in Templates” in: documents / max 9 / Templates

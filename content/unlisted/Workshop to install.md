@@ -8,12 +8,15 @@ Download and install MAX:
 - https://cycling74.com/downloads
 
 ## MAX packages
-Install 4 extra max packages: Petra, cv.jit, catart, mubu for max:
+Install 4 extra max packages: Petra, vsynth, cv.jit, catart, mubu for max:
 - open max
 - on the top menu: file / show package manager
 - on the top right of the "package" window there is a search field, on the left of that there is a little menu that either says "installed packages" or "remote packages". Make sure it is set to "remote packages"
 - in the search filed type: Petra
 - click on the blue "Petra" icon, then click on install, go back to the the search field 
+- search for “vsynth” 
+- in the search filed type: vsynth
+- click on the blue "vsynth" icon, then click on install, go back to the the search field 
 - search for “cv.jit” 
 - click on the blue/pink cv.jit icon, then click on install, go back to the the search field
 - search for “catart”

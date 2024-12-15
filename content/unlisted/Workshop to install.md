@@ -15,7 +15,6 @@ Install 4 extra max packages: Petra, vsynth, cv.jit, catart, mubu for max:
 - in the search filed type: Petra
 - click on the blue "Petra" icon, then click on install, go back to the the search field 
 - search for “vsynth” 
-- in the search filed type: vsynth
 - click on the blue "vsynth" icon, then click on install, go back to the the search field 
 - search for “cv.jit” 
 - click on the blue/pink cv.jit icon, then click on install, go back to the the search field

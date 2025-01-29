@@ -3,6 +3,18 @@ title: Kinects on mac
 draft: false
 tags:
 ---
+
+# h1
+## h2
+
+### h3
+
+#### h4
+
+##### h5
+###### h6
+
+
 ## Install and run with Processing on mac
 
  >[!info] this works for both kinect 1414 and kinect ONE

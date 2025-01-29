@@ -27,11 +27,17 @@
     color: #aeaeae;
 }
 
-[saved-theme="dark"] article thead {
+
+[saved-theme="dark"] span.text-highlight {
+    background-color: rgba(185, 56, 255, 0.4) !important;
+}
+
+
+[saved-theme="dark"] thead {
     color: #b03bf9 !important;
 }
 
-[saved-theme="dark"] article pre {
+[saved-theme="dark"] pre {
     color: #b03bf9 !important;
 }
 
@@ -53,7 +59,5 @@
     color: #7dcfff !important;
 }
 
-[saved-theme="dark"] span.text-highlight {
-    background-color: rgba(255, 158, 100, 0.4) !important;
-}
+
 */

@@ -1,4 +1,12 @@
 @use "./base.scss";
 
 // put your custom CSS here!
---light: #1ceb9e;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+thead {
+    color: #fe45b3;
+}

@@ -283,12 +283,12 @@ h5,
 h6,
 thead {
   font-family: var(--headerFont);
-  color: var(--dark);
+  color: #1ceb9e;
   font-weight: revert;
   margin-bottom: 0;
 
   article > & > a[role="anchor"] {
-    color: #1ceb9e;
+    color: var(--dark);
     background-color: transparent;
   }
 }

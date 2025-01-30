@@ -24,16 +24,18 @@
 }
 
 [saved-theme="dark"] article h6 {
-    color: #ff0000;
+    color: #c0c0c0;
+}
+
+[saved-theme="dark"] span.text-highlight {
+    background-color: rgba(185, 56, 255, 0.4) !important;
 }
 
 /*
 
 #c5c5c5;
 
-[saved-theme="dark"] span.text-highlight {
-    background-color: rgba(185, 56, 255, 0.4) !important;
-}
+
 
 
 [saved-theme="dark"] article h6 {

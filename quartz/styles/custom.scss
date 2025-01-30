@@ -27,8 +27,29 @@
     color: #c0c0c0;
 }
 
-[saved-theme="dark"] span.text-highlight {
-    background-color: rgba(185, 56, 255, 0.4) !important;
+
+[saved-theme="light"] article h1 {
+    color: #fe45b3;
+}
+    
+[saved-theme="light"] article h2 {
+    color: #ff9527;
+}
+    
+[saved-theme="light"] article h3 {
+    color: #dcdd26;
+}
+    
+[saved-theme="light"] article h4 {
+    color: #1ceb9e;
+}
+    
+[saved-theme="light"] article h5 {
+    color: #19c2ff;
+}
+    
+[saved-theme="light"] article h6 {
+    color: #c5c5c5;
 }
 
 /*
@@ -36,7 +57,9 @@
 #c5c5c5;
 
 
-
+[saved-theme="dark"] span.text-highlight {
+    background-color: rgba(185, 56, 255, 0.4) !important;
+}
 
 [saved-theme="dark"] article h6 {
     color: rgb(187, 154, 247);

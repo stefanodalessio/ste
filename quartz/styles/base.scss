@@ -152,7 +152,7 @@ a {
   }
 
   & > #quartz-body {
-    width: 100%;
+    width: 100%; // this one is not
     display: flex;
     @media all and (max-width: $fullPageWidth) {
       flex-direction: column;

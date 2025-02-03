@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "ploc' [ˈplɔʧ] Stefano D'Alessio",
+    pageTitle: "Stefano D'Alessio",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -35,7 +35,7 @@ const config: QuartzConfig = {
           darkgray: "#d4d4d4",
           dark: "#ebebec",
           secondary: "#af34f6",
-          tertiary: "rgba(252, 55, 206, 0.85)",
+          tertiary: "rgba(28, 235, 159, 0.61)",
           highlight: "rgba(255, 43, 244, 0.36)",
           textHighlight:" #b3aa0288",
         },
@@ -46,7 +46,7 @@ const config: QuartzConfig = {
           darkgray: "#d4d4d4",
           dark: "#ebebec",
           secondary: "#af34f6",
-          tertiary: "rgba(252, 55, 206, 0.85)",
+          tertiary: "rgba(28, 235, 159, 0.48)",
           highlight: "rgba(255, 43, 244, 0.36)",
           textHighlight:" #b3aa0288",
           

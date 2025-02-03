@@ -27,17 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     //Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
-      // sd.changed {}
-      filterFn: (node) => {
-        // set containing names of everything you want to filter out
-        const omit = new Set(["authoring content", "tags", "hosting", "unlisteddd", "FH24WS stuff to install", "Stage-Based interaction: stuff to install", "Łódź workshop to install"])
-        return !omit.has(node.name.toLowerCase())
-      },
-    }
-
-
-    )),
+    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
     Component.Graph(),
@@ -54,15 +44,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     //Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
-        // sd.changed {}
-        filterFn: (node) => {
-          // set containing names of everything you want to filter out
-          const omit = new Set(["authoring content", "tags", "hosting", "unlisteddd", "FH24WS stuff to install", "Stage-Based interaction: stuff to install", "Łódź workshop to install"])
-          return !omit.has(node.name.toLowerCase())
-        },
-      }
-    )),
+    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
 }

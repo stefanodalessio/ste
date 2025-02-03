@@ -1,7 +1,8 @@
 ---
 title: Łódź workshop to install
 draft: false
-tags:
+tags: 
+hidden: true
 ---
 ### MAX
 Download and install MAX:

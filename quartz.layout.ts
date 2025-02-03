@@ -28,12 +28,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     //Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
-      // sd.changed {}
-      filterFn: (node) => {
-        // set containing names of everything you want to filter out
-        const omit = new Set(["fh24ws", "stage-based interaction: stuff to install", "Łódź"])
-        return !omit.has(node.name.toLowerCase())
-      },
+      // sd.changed it DOES NOT WORK!!!!
+      filterFn: (node) => node.name !== "unlisteddd"
     }
 
 
@@ -55,12 +51,8 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     //Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
-      // sd.changed {}
-      filterFn: (node) => {
-        // set containing names of everything you want to filter out
-        const omit = new Set(["fh24ws", "stage-based interaction: stuff to install", "Łódź"])
-        return !omit.has(node.name.toLowerCase())
-      },
+      // sd.changed it DOES NOT WORK!!!!
+      filterFn: (node) => node.name !== "unlisteddd"
     }
     )),
   ],

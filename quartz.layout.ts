@@ -29,7 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     //Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
       // sd.changed it DOES NOT WORK!!!!
-      filterFn: (node) => node.name !== "unlisteddd"
+      filterFn: (node) => node.name !== "unlisted"
     }
 
 
@@ -52,7 +52,7 @@ export const defaultListPageLayout: PageLayout = {
     //Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
       // sd.changed it DOES NOT WORK!!!!
-      filterFn: (node) => node.name !== "unlisteddd"
+      filterFn: (node) => node.name !== "unlisted"
     }
     )),
   ],

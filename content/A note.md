@@ -1,8 +1,7 @@
 ---
 title: Example Title
 draft: false
-tags:
-  - exampleTag
+tags: []
 ---
 this is some text
 and a [[linkylink]]

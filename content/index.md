@@ -23,7 +23,7 @@ For now, the main purpose of this website is to host [Ploc'](content/Ploc'), a b
 
 Feel free to surf around using the explorer, the search bar, or the graph visible at the sides (if your screen is large enough) or by clicking on text links and tags.
 
-Cheers!
+Cheers!!!
 Stefano
 
 

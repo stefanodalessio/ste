@@ -1,7 +1,6 @@
 ---
 title: Welcome HOME human
-tags:
-  - index
+tags: []
 ---
 <iframe width="100%" height="200" src="https://stefanodalessio.github.io/cablesHomeRender"></iframe>
 
@@ -20,7 +19,7 @@ If you want to connect via social media, i am experimenting with Mastodon [@ste@
 I also have two meta accounts on [instagram](https://www.instagram.com/stfndlss/) and [facebook](https://www.facebook.com/stedalessio) but I am looking forward to not using them anymore.
 
 ---
-For now, the main purpose of this website is to host [Ploc'](content/Ploc'/index), a blog about embodied interaction, new media, performing arts, experimental music, art, cutting-edge technology, and who knows what else.
+For now, the main purpose of this website is to host [Ploc'](content/Ploc'), a blog about embodied interaction, new media, performing arts, experimental music, art, cutting-edge technology, and who knows what else.
 
 Feel free to surf around using the explorer, the search bar, or the graph visible at the sides (if your screen is large enough) or by clicking on text links and tags.
 

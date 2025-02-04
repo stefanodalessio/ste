@@ -5,12 +5,12 @@ tags: []
 <iframe width="100%" height="200" src="https://stefanodalessio.github.io/cablesHomeRender"></iframe>
 
 Dear human,
-this is where I publish some of my art / media / tech research and teaching resources.
+this is where I publish some of my media / tech / art research and teaching resources.
 
 If you want to see my projects, you can find them in my [**PORTFOLIO**](https://cargocollective.com/stefanodalessio) website.
 
 If you want to write me, use this [**CONTACT**](https://cargocollective.com/stefanodalessio/CONTACT) form.
-If you want to be included in my newsletter (4 times a year, no spam!), just ask for it through the same form.
+If you want to be included in my newsletter (4 times a year, no spam!), just ask for it through the same form. If you are into RSS, you can find a link at the bottom.
 
 If you want to hear some old music, there's an unmaintained **[SOUNDCLOUD](https://soundcloud.com/stefanodalessio)** page of mine.
 

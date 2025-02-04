@@ -19,7 +19,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     //Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    //Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
@@ -28,11 +28,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     //Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
-      // sd.changed it DOES NOT WORK!!!!
+      // sd.changed 
       filterFn: (node) => node.name !== "unlisted"
     }
-
-
     )),
   ],
   right: [
@@ -51,7 +49,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     //Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
-      // sd.changed it DOES NOT WORK!!!!
+      // sd.changed it 
       filterFn: (node) => node.name !== "unlisted"
     }
     )),

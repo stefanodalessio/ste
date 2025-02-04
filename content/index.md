@@ -14,8 +14,7 @@ If you want to be included in my newsletter (4 times a year, no spam!), just ask
 
 If you want to hear some old music, there's an unmaintained **[SOUNDCLOUD](https://soundcloud.com/stefanodalessio)** page of mine.
 
-If you want to connect via social media, i am experimenting with Mastodon [@ste@tldr.nettime.org](https://%40ste@tldr.nettime.org), Bluesky [@stefanodalessio.bsky.social](https://bsky.app/profile/stefanodalessio.bsky.social), Pixelfed [@stefanodalessio](https://pixelfed.social/stefanodalessio).
-
+If you want to connect via socials, I'm experimenting with [Mastodon](https://%40ste@tldr.nettime.org), [Bluesky](https://bsky.app/profile/stefanodalessio.bsky.social), [Pixelfed](https://pixelfed.social/stefanodalessio).
 I also have two meta accounts on [instagram](https://www.instagram.com/stfndlss/) and [facebook](https://www.facebook.com/stedalessio) but I am looking forward to not using them anymore.
 
 ---
@@ -23,6 +22,7 @@ For now, the main purpose of this website is to host [[Ploc']], a blog about emb
 Feel free to surf around using the explorer, the search bar, or the graph visible at the sides (if your screen is large enough) or by clicking on text links and tags.
 
 Cheers!
+
 Stefano
 
 

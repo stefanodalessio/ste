@@ -5,7 +5,7 @@ tags: []
 <iframe width="100%" height="200" src="https://stefanodalessio.github.io/cablesHomeRender"></iframe>
 
 Dear human,
-this is where I publish some of my artistic & media research and teaching resources.
+this is where I publish some of my art / media / tech research and teaching resources.
 
 If you want to see my projects, you can find them in my [**PORTFOLIO**](https://cargocollective.com/stefanodalessio) website.
 
@@ -19,10 +19,10 @@ I also have two meta accounts on [instagram](https://www.instagram.com/stfndlss/
 
 ---
 For now, the main purpose of this website is to host [[Ploc']], a blog about embodied interaction, new media, performing arts, experimental music, art, cutting-edge technology, and who knows what else.
+
 Feel free to surf around using the explorer, the search bar, or the graph visible at the sides (if your screen is large enough) or by clicking on text links and tags.
 
 Cheers!
-
 Stefano
 
 

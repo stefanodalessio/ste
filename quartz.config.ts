@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "stefanodalessio.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: false, //sd.changed
+    generateSocialImages: true, //sd.changed
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,

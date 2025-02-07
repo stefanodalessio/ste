@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Montserrat Underline", //sd.changed was Schibsted Grotesk 
-        body: "Sofia Sans", //sd.changed was Source Sans Pro
+        body: "Sofia Sans", //sd.changed was Source Sans Pro this is a change
         code: "IBM Plex Mono",
       },
       colors: {

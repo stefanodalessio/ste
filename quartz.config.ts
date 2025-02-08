@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "stefanodalessio.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: false, //sd.changed... true makes nothing
+    generateSocialImages: true, //sd.changed... true makes nothing
     //socialImage: "my-images/cover.png", this does not work
     theme: {
       fontOrigin: "googleFonts",
